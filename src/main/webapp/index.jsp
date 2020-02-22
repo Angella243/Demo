@@ -3,8 +3,8 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>to ................!</h1>
-	
+	<h1>hello Angella ................!</h1>
+	<img src="C:\Users\HP\Desktop\RandomPics\bean - Copy.jpg" alt="Flowers in Chania"/>
 	
 	<p>
 		It is now
